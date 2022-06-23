@@ -1,4 +1,6 @@
-### Hi there 👋
+### Who I am
+
+Aspiring full stack junior developer; Recently graduated from the Makers Academy bootcamp; hoping to join a friendly, ambitious team that will support me as I continue to grow and improve as a developer.
 
 <!--
 **roshanabey2/roshanabey2** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
