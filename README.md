@@ -39,7 +39,7 @@ Let’s build something great together!
 <!-- ## ⚙️ &nbsp; How to contact me -->
 <div align="center">
   <h2>📬 How to contact me</h2>
-  📩 My email: <a href="mailto:hulakova.olena@gmail.com">hulakova.olena@gmail.com</a>
+  📩 My email: <a href="mailto:roshanabey2@gmail.com">roshanabey2@gmail.com</a>
 </div><br>
 
 <div align="center">
