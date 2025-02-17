@@ -28,8 +28,8 @@ Let’s build something great together!
   <h2>💹 My GitHub Stats</h2>
 </div>
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=apriorio&layout=compact&show_icons=true&theme=react" height="180" alt="apriorio stats">
-  <img src="https://github-readme-stats.vercel.app/api?username=apriorio&show_icons=true&theme=react" height="180" alt="apriorio stats">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=roshanabey2&layout=compact&show_icons=true&theme=react" height="180" alt="apriorio stats">
+  <img src="https://github-readme-stats.vercel.app/api?username=roshanabey2&show_icons=true&theme=react" height="180" alt="apriorio stats">
 </div><br>
 
 <!--<div align="center">
