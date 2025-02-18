@@ -7,9 +7,8 @@
   <img src="https://komarev.com/ghpvc/?username=roshanabey2&color=blue" alt="GitHub profile views counter">
 </div><br>
 
-Hi, I’m Roshan! 
 
-Let’s build something great together!
+Hey, I’m Roshan. I started out in admin roles, but I’ve always been drawn to how systems work under the hood. That’s why I transitioned into software development, focusing on backend engineering. A while back, I had a conversation about where software engineering is headed—how abstraction is increasing, but understanding systems at a deeper level is still crucial. That stuck with me. It’s why I’m not just learning backend development with Rails, but also exploring DevOps, scripting, and even lower-level programming like C. I want to build systems that aren’t just functional, but efficient and scalable. My long-term goal is software architecture, but for now, I’m looking for a role where I can tackle real engineering challenges and keep sharpening my problem-solving skills. Does that sound like something your team values?"
 <br>
 
 <!-- ## 🛠 &nbsp;Languages & Tools -->
